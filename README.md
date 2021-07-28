@@ -2,4 +2,4 @@
 
 ## Basic Program
 
-### Getting and display students information
+### 1) Getting and display students information
