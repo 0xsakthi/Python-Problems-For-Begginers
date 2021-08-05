@@ -2,10 +2,10 @@
 
 ## Basic Program
 
-### 1) Getting and display students information
-### 2) power-of-given-number.py
-### 3) square-and-cube-of-given-num.py
-### 4) find-area-circumstance.py
+ 1) Getting and display students information
+ 2) power-of-given-number.py
+ 3) square-and-cube-of-given-num.py
+ 4) find-area-circumstance.py
 
 ## Branching
 
