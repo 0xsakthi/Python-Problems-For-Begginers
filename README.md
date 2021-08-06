@@ -14,7 +14,9 @@
 ## Branching
 1) given-char-vowel-or-not.py
 2) smallest-of-three-number.py
-3)
+3) Write a program to check whether the given number is odd or even.
+4) Write a program to check whether the given number is odd or even.
+5) Write a program to the voting eligibility.
 
 ## Looping
 
