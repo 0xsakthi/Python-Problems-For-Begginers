@@ -12,8 +12,8 @@
 8) swap the case
 
 ## Branching
-1)given-char-vowel-or-not.py
-2)smallest-of-three-number.py
+1) given-char-vowel-or-not.py
+2) smallest-of-three-number.py
 3)
 
 ## Looping
