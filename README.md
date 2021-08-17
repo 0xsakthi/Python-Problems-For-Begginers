@@ -23,5 +23,5 @@
 1) Write a program to find a factorial of a number?
 2) Write a program to display sum of odd numbers, upto n?
 3) find the leap year of given year?
-4) 
+4) Write a program to display sum of digits of a number
 
