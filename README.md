@@ -10,6 +10,8 @@
 6) change value celsius to fahrenheat
 7) how to calculate simple intrest ?
 8) swap the case
+9) swap two numbers
+10) circulates the values of n varriable
 
 ## Branching
 1) given-char-vowel-or-not.py
