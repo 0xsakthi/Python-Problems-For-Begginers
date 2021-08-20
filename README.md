@@ -19,6 +19,10 @@
 3) Write a program to check whether the given number is odd or even.
 4) Write a program to check whether the given number is odd or even.
 5) Write a program to the voting eligibility.
+6) Student Grading system
+7) A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount?
+
+
 
 ## Looping
 
