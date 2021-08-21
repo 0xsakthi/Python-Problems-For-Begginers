@@ -32,3 +32,8 @@
 3) find the leap year of given year?
 4) Write a program to display sum of digits of a number
 
+## String-Operations
+
+1) Program to display the number of vowels and consonants in the given string?
+2)  
+
