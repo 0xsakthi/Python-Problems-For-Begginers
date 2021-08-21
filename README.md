@@ -17,12 +17,13 @@
 1) given-char-vowel-or-not.py
 2) smallest-of-three-number.py
 3) Write a program to check whether the given number is odd or even.
-4) Write a program to check whether the given number is odd or even.
+4) Write a program to check whether the given number is zero or negative or positive.
 5) Write a program to the voting eligibility.
 6) Student Grading system
 7) A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount?
-
-
+8) leap year
+9) Roots of quadratic equation
+10) A student will not be allowed to sit in exam if his/her attendance is less than 75% and allow student to sit if he/she has medical cause upto 65%. Ask user if he/she has medical cause or not ( 'Y' or 'N' ) and print accordingly
 
 ## Looping
 
