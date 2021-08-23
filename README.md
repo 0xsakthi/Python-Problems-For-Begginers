@@ -35,5 +35,4 @@
 ## String-Operations
 
 1) Program to display the number of vowels and consonants in the given string?
-2)  
-
+2) Write a program to create a mirror of the given string. For example, “wel” = “lew“
